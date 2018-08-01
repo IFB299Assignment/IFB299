@@ -5,3 +5,8 @@ Time: 1pm - 3pm
 Content: 1. Github installation 
          2. Finish team agreement.
          3. Discuss about the client requirement and the list of features for the developers 
+Attendance: Ho Fong Law 10107321
+            Manh Quyen Nguyen  10073370
+            Kee Nim Cheong 10092030
+            Siu Cheung Chung 9574042
+            Wai Ieong Chong 9641980
