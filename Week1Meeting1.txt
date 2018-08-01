@@ -1,0 +1,7 @@
+# IFB299
+Meeting 1 
+Date: 1/8/2018
+Time: 1pm - 3pm
+Content: 1. Github installation 
+         2. Finish team agreement.
+         3. Discuss about the client requirement and the list of features for the developers 
