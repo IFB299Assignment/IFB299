@@ -1,0 +1,21 @@
+# IFB299
+
+Meeting 2
+
+Date: 3/8/2018
+
+Time: 2pm - 3:30pm
+
+Content: 1. Finalize and optimize the client requirement and the list of features for developers
+
+         2. Prepare the next workshop
+
+Attendance: Ho Fong Law 10107321
+
+            Manh Quyen Nguyen  10073370
+
+            Kee Nim Cheong 10092030
+
+            Siu Cheung Chung 9574042
+
+            Wai Ieong Chong 9641980
