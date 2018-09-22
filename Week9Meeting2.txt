@@ -1,0 +1,20 @@
+# IFB299
+
+Week 9 Meeting 2
+
+Date: 21/9/2018
+
+Time: 2pm - 4pm
+
+Content: 1. Update the progress.
+	 2. trying to connect the database
+
+Attendance: Ho Fong Law 10107321
+
+            Manh Quyen Nguyen  10073370
+
+            Kee Nim Cheong 10092030
+
+            Siu Cheung Chung 9574042
+
+            Wai Ieong Chong 9641980
